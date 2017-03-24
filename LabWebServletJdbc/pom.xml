@@ -28,7 +28,7 @@
 		    <artifactId>jstl</artifactId>
 		    <version>1.2</version>
 		</dependency>
-
+    
 		<!-- Servlet 3.0 API -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
